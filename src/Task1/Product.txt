@@ -1,0 +1,5 @@
+id       name        price       quantity
+1          Sugar        100          5
+2          salt        150          10
+3          malt        200          15
+4          abcdefghijklmn        200          15

@@ -1,0 +1,19 @@
+Thee are 43 in built functional interfaces in the java utils.
+There are 9 major functional.
+1. Consumer
+2. BiConsumer
+3. Supplier
+4. Predicate
+5. BiPredicate
+6. Function
+7. BiFunction
+8. UnaryOperator
+9. BinaryOperator
+
+1. The consumer is an object that takes something and returns nothing. i.e is a void method.
+2. THE BiConsumer is an object that takes two things but returns nothing.
+3. The Supplier does not take anything but returns something.
+4. The predicate method represents a method that takes something and returns a boolean
+5. A function is a functional interface that takes something(e.g an object) and returns something
+
+There are 3 print stream, the double stream,int stream and the double
